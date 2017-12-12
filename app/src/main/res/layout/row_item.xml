@@ -7,7 +7,7 @@
 
 <ImageView
     android:layout_gravity="center"
-    android:id="@+id/avartar"
+    android:id="@+id/icon"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_weight="3"
